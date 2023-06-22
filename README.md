@@ -18,11 +18,6 @@
 
 <br>
 
-<h2>Tecnologias mais utilizadas</h2>
-<p align="center">
-  <img width="400em" src="https://github-readme-stats.vercel.app/api?username=Eliezer-TEC&show_icons=true&theme=dark" alt="Eliezer-TEC's stats"/>
-  <img width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Eliezer-TEC&layout=compact&theme=dark" alt="Eliezer-TEC's most languages"/>
-</p>
 
 <h2>Rede Social</h2>
 <p align="left" style="background:yellow">
