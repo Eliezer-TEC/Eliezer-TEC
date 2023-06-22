@@ -1,4 +1,4 @@
-<h1 align="left">Olá, meu nome é Eliezer!<img align="right" height="350" src="https://media.giphy.com/media/CqXALXwCrQanqRwAcE/giphy.gif" /></h1>
+<h1 align="left">Olá, meu nome é Eliezer!<img align="right" height="350" src="https://media.giphy.com/media/xTiTnIByhw6hCJi58Y/giphy.gif" /></h1>
 
 - 📚 Sou estudante de Análise e Desenvolvimento de Sistemas;
 
